@@ -1,0 +1,1759 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Zhaoxuan Assistant//PKU Course Calendar//CN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:赵煊助理｜北京大学课程
+X-WR-TIMEZONE:Asia/Shanghai
+BEGIN:VTIMEZONE
+TZID:Asia/Shanghai
+X-LIC-LOCATION:Asia/Shanghai
+BEGIN:STANDARD
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:CST
+DTSTART:19700101T000000
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:pku-22105348-20260912@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20260912T080000
+DTEND;TZID=Asia/Shanghai:20260912T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第1周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20260912@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20260912T130000
+DTEND;TZID=Asia/Shanghai:20260912T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第1周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20260912@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20260912T184000
+DTEND;TZID=Asia/Shanghai:20260912T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第1周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20260913@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20260913T090000
+DTEND;TZID=Asia/Shanghai:20260913T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第1周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20260913@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20260913T130000
+DTEND;TZID=Asia/Shanghai:20260913T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第1周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20260913@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20260913T173000
+DTEND;TZID=Asia/Shanghai:20260913T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 1周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-calendar-off-0919-20260919@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:北大课程停课
+DTSTART;VALUE=DATE:20260919
+DTEND;VALUE=DATE:20260921
+DESCRIPTION:用户确认该周末不上课
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-calendar-midautumn-20260925@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中秋节｜北京大学停课
+DTSTART;VALUE=DATE:20260925
+DTEND;VALUE=DATE:20260926
+DESCRIPTION:9月25日中秋节放假停课；工程管理9月26日至27日
+ 课程照常进行
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-22105348-20260926@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20260926T080000
+DTEND;TZID=Asia/Shanghai:20260926T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第3周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20260926@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20260926T130000
+DTEND;TZID=Asia/Shanghai:20260926T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第3周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20260926@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20260926T184000
+DTEND;TZID=Asia/Shanghai:20260926T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第3周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20260927@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20260927T090000
+DTEND;TZID=Asia/Shanghai:20260927T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第3周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20260927@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20260927T130000
+DTEND;TZID=Asia/Shanghai:20260927T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第3周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20260927@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20260927T173000
+DTEND;TZID=Asia/Shanghai:20260927T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 3周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-calendar-nationalday-20261001@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:国庆节假期｜北大全校停课
+DTSTART;VALUE=DATE:20261001
+DTEND;VALUE=DATE:20261008
+DESCRIPTION:10月1日至7日，无课程
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-calendar-off-1010-20261010@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理部分课程停课
+DTSTART;VALUE=DATE:20261010
+DTEND;VALUE=DATE:20261012
+DESCRIPTION:10月10日至11日工程管理常规课程停课；思政课“
+ 中国式现代化的理论与实践”10月10日08:00–12:00按单独公
+ 布安排正常上课
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-22105348-20261010@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20261010T080000
+DTEND;TZID=Asia/Shanghai:20261010T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第5周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261017@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261017T130000
+DTEND;TZID=Asia/Shanghai:20261017T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第6周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261017@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261017T184000
+DTEND;TZID=Asia/Shanghai:20261017T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第6周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261018@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261018T090000
+DTEND;TZID=Asia/Shanghai:20261018T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第6周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261018@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261018T130000
+DTEND;TZID=Asia/Shanghai:20261018T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第6周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20261018@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20261018T173000
+DTEND;TZID=Asia/Shanghai:20261018T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 6周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-22105348-20261024@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20261024T080000
+DTEND;TZID=Asia/Shanghai:20261024T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第7周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261024@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261024T130000
+DTEND;TZID=Asia/Shanghai:20261024T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第7周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261024@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261024T184000
+DTEND;TZID=Asia/Shanghai:20261024T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第7周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261025@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261025T090000
+DTEND;TZID=Asia/Shanghai:20261025T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第7周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261025@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261025T130000
+DTEND;TZID=Asia/Shanghai:20261025T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第7周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20261025@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20261025T173000
+DTEND;TZID=Asia/Shanghai:20261025T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 7周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261031@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261031T130000
+DTEND;TZID=Asia/Shanghai:20261031T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第8周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261031@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261031T184000
+DTEND;TZID=Asia/Shanghai:20261031T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第8周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261101@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261101T090000
+DTEND;TZID=Asia/Shanghai:20261101T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第8周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261101@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261101T130000
+DTEND;TZID=Asia/Shanghai:20261101T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第8周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20261101@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20261101T173000
+DTEND;TZID=Asia/Shanghai:20261101T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 8周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-22105348-20261107@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20261107T080000
+DTEND;TZID=Asia/Shanghai:20261107T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第9周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261107@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261107T130000
+DTEND;TZID=Asia/Shanghai:20261107T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第9周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261107@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261107T184000
+DTEND;TZID=Asia/Shanghai:20261107T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第9周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261108@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261108T090000
+DTEND;TZID=Asia/Shanghai:20261108T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第9周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261108@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261108T130000
+DTEND;TZID=Asia/Shanghai:20261108T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第9周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20261108@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20261108T173000
+DTEND;TZID=Asia/Shanghai:20261108T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 9周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261114@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261114T130000
+DTEND;TZID=Asia/Shanghai:20261114T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第10周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261114@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261114T184000
+DTEND;TZID=Asia/Shanghai:20261114T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第10周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261115@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261115T090000
+DTEND;TZID=Asia/Shanghai:20261115T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第10周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261115@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261115T130000
+DTEND;TZID=Asia/Shanghai:20261115T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第10周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719690-20261115@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:创业投资与私募股权投资基金
+DTSTART;TZID=Asia/Shanghai:20261115T173000
+DTEND;TZID=Asia/Shanghai:20261115T213000
+LOCATION:北京大学二教401
+DESCRIPTION:时间待核对\n课程编号：01719690\n任课教师：何小
+ 锋\n课程类别：专业选修课\n学分：2\n学时：32\n周次：第
+ 10周\n课程简介：本课程介绍创业投资与私募股权投资基
+ 金的理论与实务，包括基金募集、基金投资、投后管理
+ 和退出分配。课程结合中国特色投资理论、大量实操案
+ 例和业界专题讲座，使学生熟悉创业投资与私募股权投
+ 资基金的操作，以及企业向相关基金进行融资的方法。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-22105348-20261121@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20261121T080000
+DTEND;TZID=Asia/Shanghai:20261121T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第11周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261121@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261121T130000
+DTEND;TZID=Asia/Shanghai:20261121T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第11周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261121@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261121T184000
+DTEND;TZID=Asia/Shanghai:20261121T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第11周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261122@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261122T090000
+DTEND;TZID=Asia/Shanghai:20261122T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第11周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261122@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261122T130000
+DTEND;TZID=Asia/Shanghai:20261122T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第11周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261128@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261128T130000
+DTEND;TZID=Asia/Shanghai:20261128T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第12周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261128@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261128T184000
+DTEND;TZID=Asia/Shanghai:20261128T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第12周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261129@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261129T090000
+DTEND;TZID=Asia/Shanghai:20261129T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第12周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261129@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261129T130000
+DTEND;TZID=Asia/Shanghai:20261129T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第12周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-22105348-20261205@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:中国式现代化的理论与实践
+DTSTART;TZID=Asia/Shanghai:20261205T080000
+DTEND;TZID=Asia/Shanghai:20261205T120000
+LOCATION:北京大学二教101
+DESCRIPTION:课程编号：22105348\n任课教师：习院\n课程类别：
+ 公共必修课\n学分：2\n学时：32\n周次：第13周
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261205@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261205T130000
+DTEND;TZID=Asia/Shanghai:20261205T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第13周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261205@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261205T184000
+DTEND;TZID=Asia/Shanghai:20261205T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第13周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261206@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261206T090000
+DTEND;TZID=Asia/Shanghai:20261206T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第13周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261206@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261206T130000
+DTEND;TZID=Asia/Shanghai:20261206T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第13周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261212@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261212T130000
+DTEND;TZID=Asia/Shanghai:20261212T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第14周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261212@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261212T184000
+DTEND;TZID=Asia/Shanghai:20261212T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第14周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261213@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261213T090000
+DTEND;TZID=Asia/Shanghai:20261213T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第14周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261213@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261213T130000
+DTEND;TZID=Asia/Shanghai:20261213T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第14周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261219@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261219T130000
+DTEND;TZID=Asia/Shanghai:20261219T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第15周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261219@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261219T184000
+DTEND;TZID=Asia/Shanghai:20261219T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第15周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261220@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261220T090000
+DTEND;TZID=Asia/Shanghai:20261220T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第15周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261220@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261220T130000
+DTEND;TZID=Asia/Shanghai:20261220T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第15周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719950-20261226@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程经济学
+DTSTART;TZID=Asia/Shanghai:20261226T130000
+DTEND;TZID=Asia/Shanghai:20261226T160000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719950\n任课教师：倪宣明\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第16周\n课程简
+ 介：本课程主要包括五个方面内容：导论、工程经济学
+ 的基础理论、项目经济效果评价方法、工程项目风险分
+ 析和工程项目融资规划。通过课程学习和案例分析，学
+ 生将掌握工程经济学的系统基础性知识，了解工程可行
+ 性分析的理论方法，熟悉经济效益分析的系统性思维与
+ 方法，以及解决工程经济实践问题的能力。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01716160-20261226@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理基础
+DTSTART;TZID=Asia/Shanghai:20261226T184000
+DTEND;TZID=Asia/Shanghai:20261226T213000
+LOCATION:北京大学二教411
+DESCRIPTION:课程编号：01716160\n任课教师：黄嵩、倪宣明、
+ 李昕旸、邢恩泉\n课程类别：专业必修课\n学分：2\n学时
+ ：32\n周次：第16周\n课程简介：本课程为工程管理的基础
+ 课程，鉴于工程管理硕士的生源开放性，本课程为进一
+ 步更好地研修工程管理硕士的其他课程提供基础理论和
+ 应用工具方面的必备知识。主要包括工程管理硕士课程
+ 所需的以下六个领域的必备知识：数学、微观经济学、
+ 宏观经济学、管理学、金融学、数据分析工具。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719920-20261227@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:工程管理定量分析方法
+DTSTART;TZID=Asia/Shanghai:20261227T090000
+DTEND;TZID=Asia/Shanghai:20261227T120000
+LOCATION:北京大学二教205
+DESCRIPTION:课程编号：01719920\n任课教师：林慧苹\n课程类别
+ ：专业必修课\n学分：2\n学时：32\n周次：第16周\n课程简
+ 介：课程目标是针对工程管理问题采用定量分析方法，
+ 通过把问题抽象成数学问题、建立模型并利用计算机软
+ 件求解，训练理性思维和逻辑思维，培养运用方法和工
+ 具解决工程管理实际问题的能力。学生应提前掌握线性
+ 代数和概率统计的基本知识。教学内容包括统计预测与
+ 大数据、最优化模型和决策分析方法。课程采用课堂教
+ 学与案例教学相结合的方式，为考查课，平时成绩占50%
+ ，课程项目成绩占50%。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-01719900-20261227@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:人工智能导论
+DTSTART;TZID=Asia/Shanghai:20261227T130000
+DTEND;TZID=Asia/Shanghai:20261227T160000
+LOCATION:北京大学二教401
+DESCRIPTION:课程编号：01719900\n任课教师：孙圣力\n课程类别
+ ：专业选修课\n学分：2\n学时：32\n周次：第16周\n课程简
+ 介：本课程紧跟人工智能领域的最新进展，将人工智能
+ 与大数据相结合，对人工智能与大数据领域的基本思想
+ 、基本理论、基本方法及典型应用进行深入浅出地讲授
+ 。内容包括人工智能与数据工程概述、频繁模式挖掘及
+ 应用、聚类分析及应用、神经网络与深度神经网络、计
+ 算机视觉与自然语言处理技术基础等。课程目标是使学
+ 生初步了解人工智能的基本原理和方法，对大数据与深
+ 度学习架构有较深入的理解，为今后从事人工智能应用
+ 开发奠定技术基础。
+STATUS:CONFIRMED
+TRANSP:OPAQUE
+BEGIN:VALARM
+TRIGGER:-PT20M
+ACTION:DISPLAY
+DESCRIPTION:还有20分钟上课
+END:VALARM
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-calendar-exam-20261228@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:停课复习考试｜北京大学
+DTSTART;VALUE=DATE:20261228
+DTEND;VALUE=DATE:20270111
+DESCRIPTION:校本部、医学部停课复习考试
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+BEGIN:VEVENT
+UID:pku-calendar-winterbreak-20270111@zhaoxuan-assistant
+DTSTAMP:20260923T115901Z
+LAST-MODIFIED:20260923T115901Z
+SEQUENCE:0
+SUMMARY:学生寒假｜北京大学
+DTSTART;VALUE=DATE:20270111
+DTEND;VALUE=DATE:20270222
+DESCRIPTION:校本部、医学部寒假
+STATUS:CONFIRMED
+TRANSP:TRANSPARENT
+END:VEVENT
+END:VCALENDAR
